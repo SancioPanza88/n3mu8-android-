@@ -1,0 +1,7 @@
+{
+  "name": "N_m3u8DL-RE Android GUI",
+  "description": "Applicazione Android per N_m3u8DL-RE: acquisizione universale di flussi HLS, DASH e MSS, ispezione manifest, gestione DRM e generatore di comandi Termux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
